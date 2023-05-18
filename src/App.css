@@ -35,3 +35,9 @@ body {
   align-items: center;
   color: #262626;
 }
+.state--value:focus{
+  /* -webkit-tap-highlight-color: transparent; */
+  background-image: none;
+  outline: 0;
+  box-shadow: none;
+}
